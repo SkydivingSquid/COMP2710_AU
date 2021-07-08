@@ -1,7 +1,7 @@
 /* File Name:  project3_xxxxx_xxxxxxx.cpp
  * Author:     <NAME> (xxxxxx)
  * Class:      COMP 2710
- * Version:    <DATE>
+ * Version:    <DATE> 
  * 
  * Sources:    *********************
  *             *********************

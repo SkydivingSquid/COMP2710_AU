@@ -1,14 +1,14 @@
-/* File Name:  project2_martin_gbm0016.cpp
- * Author:     George Martin (gbm0016)
- * Class:      COMP 2710 - Dr. Li
- * Version:    11 June, 2021
+/* File Name:  project2_xxxxx_xxxxxxx.cpp
+ * Author:     xxxxx (xxxxxxx)
+ * Class:      COMP 2710
+ * Version:    <DATE>
  * 
- * Sources:    This code was entirely my own with help from Dr. Li's CANVAS files.
- *             Discussion with student Eiford if hitting <Enter> twice is acceptable.
- *             Discussion with student Zhang if showpoint was necessary. 
+ * Sources:    ***************************************
+ *             ****Shoutout to Sloan and Wumphlett****
+ *             ***************************************
  *
- * Location:   home/u1/gbm0016/Project_2
- * Compile:    g++ project2_martin_gbm0016.cpp -o project2.out
+ * Location:   home/xx/xxxxxxx/Project_2
+ * Compile:    g++ project2_xxxxx_xxxxxxx.cpp -o project2.out
  * Run:        ./project2.out
  */
  
@@ -578,7 +578,7 @@ void test_Aaron_shoots2(void) {
 
 /*NOTE:  I sat here for like 15 minutes waiting for this program to "finish"
  *       the first time I ran it, not realizing that you had to press <Enter>
- *       twice. I was thinking, "maybe 10,000 loops just takes a while...
+ *       twice. I was thinking, "maybe 10,000 loops just takes a while..."
  *       then got worried I was in an infinite-loop... Finally realized that
  *       once you hit <Enter> again it ran. So... that was a thing.
  */

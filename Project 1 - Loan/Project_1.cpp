@@ -1,15 +1,15 @@
-/* File Name:  project1_martin_gbm0016.cpp
- * Author:     George Martin (gbm0016)
- * Class:      COMP 2710 - Dr. Li
- * Version:    27 May, 2021
+/* File Name:  project1_xxxxx_xxxxxxx.cpp
+ * Author:     <NAME>
+ * Class:      COMP 2710
+ * Version:    <DATE>
  * 
- * Sources:    Dr. Li assisted with using (cin) to check input types through StackOverflow in Piazza.
- *             Dr. Li also advised me to change my doubles to floats. 
- *             Student Zhang advised me to use #include <limits> to fix g++ error. 
- *             The rest of the code was entirely my own with help from Dr. Li's CANVAS files. 
+ * Sources:    ********************
+ *             ********************
+ *             ********************
+ *             ********************
  *
- * Location:   home/u1/gbm0016/Project_1
- * Compile:    g++ project1_martin_gbm0016.cpp -o project1.out
+ * Location:   home/xx/xxxxxxx/Project_1
+ * Compile:    g++ project1_xxxxx_xxxxxxx.cpp -o project1.out
  * Run:        ./project1.out
  */
  

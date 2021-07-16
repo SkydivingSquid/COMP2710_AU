@@ -1,19 +1,19 @@
-/* File Name:  project4_martin_gbm0016.cpp
- * Author:     George Martin (gbm0016)
- * Class:      COMP 2710 - Dr. Li
- * Version:    15 July, 2021
+/* File Name:  project4_xxxxx_xxxxxxx.cpp
+ * Author:     <NAME> (xxxxxx)
+ * Class:      COMP 2710
+ * Version:    <DATE> 
  * 
- * Sources:    Stack overflow was referenced for string to uppercase function.
- *             CodeGrepper was used for string to int (stoi) function.
- *             GeeksForGeeks was used for goto function.
- *             This rest of this code was my own with help from Dr. Li's CANVAS files.
+ * Sources:    *********************
+ *             *********************
+ *             *********************
  *
- * Location:   home/u1/gbm0016/Project_4
- * Compile:    g++ -std=c++0x project4_martin_gbm0016.cpp -o project4.out
+ * Location:   home/xx/xxxxxx/Project_4
+ *
+ * Location:   home/u1/xxxxxxx/Project_4
+ * Compile:    g++ -std=c++0x project4_xxxxx_xxxxxxx.cpp -o project4.out
  * Run:        ./project4.out
  *
  * Note 1:     #define UNIT_TESTING is currently commented out. Uncomment line 39 for the UNIT_TESTING version.
- * Note 2:     Compile method uses additional string in order to run without errors. Posted on Piazza as well. 
  */
  
    ////////////////////////////////////////////////////
@@ -286,7 +286,7 @@ int main() {
    TriviaGame game = TriviaGame();
    
     #ifdef trivia_quiz
-   cout << "*** Welcome to George's trivia quiz game ***" << endl;
+   cout << "*** Welcome to <NAME>'s trivia quiz game ***" << endl;
    
    bool more = false;
    
